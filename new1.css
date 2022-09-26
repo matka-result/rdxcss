@@ -78,8 +78,9 @@ th{
     padding:4px 2px 
 }
 .record{
-    background-color:#ffe3c6;
-    border-style: groove;
+    border: 2px solid #A40808;
+    background-color: #EEE7DB;
+    border-collapse: collapse;
     border-color: #D2691E;
     color:#000;
     line-height: 1.0;
